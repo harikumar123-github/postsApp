@@ -12,9 +12,11 @@ export default makeStyles((theme) => ({
     padding: "5px 10px",
   },
   heading: {
-    color: "rgba(0,183,255, 1)",
+    color: '#a14be0',
     textDecoration: "none",
-    fontSize: '3em'
+    fontSize: '3em',
+    marginLeft: '0.5rem',
+    fontFamily: "'Pacifico', cursive"
   },
   image: {
     marginLeft: "15px",
